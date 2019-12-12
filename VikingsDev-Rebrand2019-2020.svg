@@ -397,9 +397,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-9156.0164"
-     inkscape:cy="2379.5569"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="-14769.269"
+     inkscape:cy="4568.0072"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -416,7 +416,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      width="72in"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata4542">
     <rdf:RDF>
@@ -2206,7 +2207,7 @@
     </g>
     <g
        id="g1489"
-       transform="translate(287.86666,93.781431)">
+       transform="matrix(6.3484418,0,0,6.3484418,12584.265,-2009.574)">
       <g
          id="g1544"
          inkscape:export-filename="/home/frank/WebstormProjects/VikingsDev.github.io/images/vikingsdev-logo-highres.png"
