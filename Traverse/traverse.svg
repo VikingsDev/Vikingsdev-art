@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="6736.3765"
-     inkscape:cy="2820.7609"
+     inkscape:zoom="0.175"
+     inkscape:cx="-461.28011"
+     inkscape:cy="5076.1733"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="1680"
-     inkscape:window-y="27"
+     inkscape:window-width="1680"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3657">
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1084,6 +1084,45 @@
              id="path5265"
              inkscape:connector-curvature="0" />
         </g>
+      </g>
+    </g>
+    <rect
+       y="-39.575264"
+       x="1565.8901"
+       height="420.66199"
+       width="420.66199"
+       id="rect2237"
+       style="opacity:1;fill:#c69249;fill-opacity:1;stroke:none;stroke-width:0.39840776;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/U01/temp/traverse-banner.png"
+       inkscape:export-xdpi="19.381742"
+       inkscape:export-ydpi="19.381742" />
+    <g
+       id="g2483"
+       transform="matrix(3.9188247,0,0,3.9188247,-4777.9901,-645.22441)">
+      <g
+         transform="matrix(0.90311255,0,0,0.90311255,4655.2287,740.55528)"
+         style="fill:#ffffff;fill-opacity:1"
+         id="g2311">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2295"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.74567413px;line-height:125%;font-family:'Trend Sans';-inkscape-font-specification:'Trend Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09364188"
+           d="m -3338.9042,-599.83401 h 10.2802 v 25.7662 h 5.4682 v -25.7662 h 10.1053 v -4.98701 h -25.8537 z" />
+      </g>
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0.90311255,0,0,0.90311255,4445.8299,736.66381)"
+         id="g2317">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2313"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.74567413px;line-height:125%;font-family:'Trend Sans';-inkscape-font-specification:'Trend Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09364188"
+           d="m -3057.2272,-567.98716 c -7.3055,-3.93711 -10.8927,-9.40532 -10.8927,-17.14831 0,-7.74298 3.5872,-13.25493 10.8927,-17.19205 l -2.2748,-3.4559 c -8.7929,4.63704 -13.3861,11.63635 -13.3861,20.64795 0,9.01161 4.5932,15.96718 13.3861,20.64796 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2315"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.74567413px;line-height:125%;font-family:'Trend Sans';-inkscape-font-specification:'Trend Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09364188"
+           d="m -3048.0734,-564.48751 c 8.7929,-4.68078 13.3862,-11.63635 13.3862,-20.64796 0,-8.92411 -4.5933,-15.83593 -13.3862,-20.42923 l -2.2748,3.45591 c 7.3055,3.89337 10.8927,9.31783 10.8927,16.97332 0,7.74299 -3.5872,13.2112 -10.8927,17.14831 z" />
       </g>
     </g>
   </g>
